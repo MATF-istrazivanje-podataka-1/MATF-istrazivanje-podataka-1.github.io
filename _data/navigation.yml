@@ -1,0 +1,16 @@
+# main links
+main:
+
+  - title: "O KURSU"
+    url: /about/
+  
+  - title: "OBAVEZE STUDENATA"
+    url: /obligations/
+  
+  - title: "VEŽBE"
+    url: /practices/
+  
+  - title: "OBAVEŠTENJA"
+    url: /notifications/
+
+  
