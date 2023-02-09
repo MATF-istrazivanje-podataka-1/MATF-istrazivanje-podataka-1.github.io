@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /about
+permalink: /about/
 toc: true
 toc_label: Sadržaj
 toc_sticky: true
