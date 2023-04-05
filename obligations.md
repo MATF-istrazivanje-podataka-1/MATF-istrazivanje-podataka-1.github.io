@@ -29,7 +29,9 @@ Odbrana projekta će biti moguća u svim ispitnim rokovima. Projekat se može pr
 
 Bodovi dobijeni na projektu važe u svim ispitnim rokovima školske 2022/2023.
 
-Spisak tema, uputstvo za prijavljivanje projekata, propozicije koje projekti treba da zadovolje i detalji u vezi sa odbranom projekta će biti blagovremeno dodati.
+[Spisak predloženih tema za 2022/2023](https://docs.google.com/spreadsheets/d/1CJcuRD7pKudwgi2aY3Rze0diTmPG8jCHug5fGkZBbC8/edit?usp=sharing)
+
+Detaljne informacije o prijavi teme, izradi projekta i načinu ocenjivanja se nalaze na [linku](https://docs.google.com/document/d/1QIEqOyi6P4ss33JKfMut7wsmTakywfXlarRhGDnrAdU/edit?usp=sharing).
 
 ## Ispit
 ### Pismeni ispit (35 poena)
