@@ -13,10 +13,9 @@ header:
 
 ## Informacije o kursu 
 <i>
-Kurs Istraživanje podataka je obavezan kurs na trećoj godini Matematičkog fakulteta, na smeru Informatika. 
+Kurs Istraživanje podataka 1 je obavezan kurs na trećoj godini Matematičkog fakulteta, na smeru Informatika. 
 </i>
 
-Obrađene teme:
 
 
 

@@ -33,3 +33,22 @@ toc_sticky: true
 
 #### Nedelja 5: Mere kvaliteta modela. K najbližih suseda
   - [Mere kvaliteta modela](http://www.matf.bg.ac.rs/p/files/24-ipVezbe42021In.pdf)
+
+#### Nedelja 6: Naivni Bajesovski klasifikator. Obrada teksta
+  - [Zadaci na papiru](http://enastava.matf.bg.ac.rs/~mirjana/Istrazivanje_podataka_1/vezbe6/ipVezbe6Tekst2020.pdf)
+
+#### Nedelja 7 i 8: PCA i SVM. Neuronske mreže
+  - [PCA - teorijski uvod](https://enastava.matf.bg.ac.rs/~mirjana/Istrazivanje_podataka_1/vezbe7/vezbe7/ipVezbe7Tekst2020.pdf) 
+  
+#### Nedelja 9: Rad sa nebalansiranim klasama
+  - [imblearn](https://imbalanced-learn.org/stable/)
+
+#### Nedelja 10: Klasterovanje. K-means
+  - [K-means](https://enastava.matf.bg.ac.rs/~mirjana/Istrazivanje_podataka_1/vezbe8/vezbe8/ipVezbe8Tekst2020.pdf)
+
+#### Nedelja 11: Hijerarhijsko klasterovanje. Klasterovanje zasnovano na gustini
+  - [Zadaci na papiru](https://enastava.matf.bg.ac.rs/~mirjana/Istrazivanje_podataka_1/vezbe9/vezbe9/ipVezbe92020Tekst.pdf)
+
+#### Nedelja 12: Pravila pridruživanja
+  - [Zadaci na papiru](https://enastava.matf.bg.ac.rs/~mirjana/Istrazivanje_podataka_1/vezbe11/vezbe11/ipVezbe112020Tekst.pdf)
+  - [Pravila pridruživanja u SPSS](https://enastava.matf.bg.ac.rs/~mirjana/Istrazivanje_podataka_1/vezbe12/vezbe12/ipVezbe202020.pdf)
